@@ -3,9 +3,13 @@
     "vid": "0x46f4",
     "pid": "0x0001",
     "sn": "17A0PDN123456",
-    "mac1": "001132123456"
+    "netif_num":"6",
+    "mac1": "001132123456",
+    "mac2": "001132123457"
   },
   "synoinfo": {
+    "maxlanport" : "6",
+    "maxdisks" : "32",
     "supportsystemperature": "no",
     "supportsystempwarning": "no"
   },
